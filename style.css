@@ -1,0 +1,70 @@
+    body{
+        font-family: "Roboto", sans-serif;
+        color: white;
+        margin: 0;
+       /* background: #3F5EFB;
+background: radial-gradient(circle, rgba(63, 94, 251, 1) 27%, rgba(112, 252, 70, 1) 87%); */
+  background-image: url(https://media.wired.com/photos/648ce85eeb3f06fa8140d00a/3:2/w_1600,c_limit/Best-Websites-To-Show-Off-Your-Portfolio-Business-1357904435.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+    }
+    header{
+        background-color: rgb(16, 75, 185);
+        padding: 0.4rem;
+        cursor: pointer;
+        padding-left: 4rem;
+        justify-content: space-between;
+        color: white;
+        display: flex;
+    }
+    a{
+        color: white;
+        text-decoration: none;
+        gap: 30px;
+        font-size: 1.1rem;
+    }
+    .link{
+        display: flex;
+        gap: 30px;
+        font-size: 1.1rem;
+        color: white;
+        font-size: 1rem;
+        padding-top: 25px;
+        padding-right: 30px;
+    }
+    .content{
+        justify-content: center;
+        font-size: 1.5rem;
+        display: flex;
+        text-align: center;
+        align-items: center;
+        cursor: pointer;
+        padding: 20px;
+        height: calc(100vh - 80px);
+    }
+    .content2{
+         max-width: 100rem;
+    }
+    h1{
+        margin-bottom: 30px;
+        color: aqua;
+    }
+    h3{
+    color: red;
+    }
+    p{
+        font-size: 1.2rem;
+    margin-bottom: 40px;
+    line-height: 1.5;
+    }
+    button{
+        padding: 18px;
+        color: white;
+        font-size: 1rem;
+        font-weight: bold;
+        background-color: rgb(57, 161, 57);
+        border: none;
+        border-radius: 0.7rem;
+        cursor: pointer;
+        padding: 17px 30px;
+    }
