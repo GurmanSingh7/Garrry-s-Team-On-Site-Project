@@ -1,47 +1,76 @@
+<div align="center">
+
 # 🚀 Garry's Developers Team
 
+### On-Site Project Showcase
+
+<img src="./assets/banner.gif" width="100%" alt="Project Banner"/>
+
+</div>
+
+---
+
+## 🎥 Live Project Preview
+
 <p align="center">
-<img src="./assets/banner.gif" width="100%">
+  <img src="./assets/demo.gif" width="90%" alt="Project Demo"/>
 </p>
 
 ---
 
-## 🎥 Project Preview
+## 📸 Project Gallery
+
+<table>
+<tr>
+<td><img src="./assets/screen1.png" width="100%"/></td>
+<td><img src="./assets/screen2.png" width="100%"/></td>
+</tr>
+<tr>
+<td><img src="./assets/screen3.png" width="100%"/></td>
+<td><img src="./assets/screen4.png" width="100%"/></td>
+</tr>
+</table>
+
+---
+
+## 🎬 UI Interactions
 
 <p align="center">
-<img src="./assets/demo.gif" width="100%">
+<img src="./assets/ui-login.gif" width="32%">
+<img src="./assets/ui-dashboard.gif" width="32%">
+<img src="./assets/ui-mobile.gif" width="32%">
 </p>
 
 ---
 
-## 📸 Screenshots
+## ⚙️ Technology Stack
 
 <p align="center">
-<img src="./assets/1.png" width="49%">
-<img src="./assets/2.png" width="49%">
-</p>
-
-<p align="center">
-<img src="./assets/3.png" width="49%">
-<img src="./assets/4.png" width="49%">
+<img src="./assets/tech-stack.png" width="800">
 </p>
 
 ---
 
-## 🎬 UI Transitions
+## 🏗️ Workflow
 
-<p align="center">
-<img src="./assets/ui1.gif" width="32%">
-<img src="./assets/ui2.gif" width="32%">
-<img src="./assets/ui3.gif" width="32%">
-</p>
+```text
+Requirements
+     ↓
+Design
+     ↓
+Development
+     ↓
+Testing
+     ↓
+Deployment
+```
 
 ---
 
-## 🛠 Tech Stack
+## 👥 Team
 
 <p align="center">
-<img src="./assets/stack.png" width="800">
+<img src="./assets/team.png" width="850">
 </p>
 
 ---
@@ -49,15 +78,27 @@
 ## 🎥 Full Walkthrough
 
 <p align="center">
-<a href="https://youtube.com/watch?v=YOUR_VIDEO">
-<img src="./assets/video-preview.png" width="100%">
+<a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID">
+<img src="./assets/video-thumbnail.png" width="900">
 </a>
 </p>
 
 ---
 
-## 🌟 Team
+## 📱 Responsive Views
 
 <p align="center">
-<img src="./assets/team-banner.png" width="100%">
+<img src="./assets/mobile.png" width="30%">
+<img src="./assets/tablet.png" width="30%">
+<img src="./assets/desktop.png" width="30%">
 </p>
+
+---
+
+<div align="center">
+
+### Built by Garry's Developers Team
+
+<img src="./assets/footer.gif" width="100%"/>
+
+</div>
