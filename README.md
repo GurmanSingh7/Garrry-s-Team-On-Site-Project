@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🚀 Garry's Developers Team
-
+  
 ### On-Site Project Showcase
 
 <img src="./assets/banner.gif" width="100%" alt="Project Banner"/>
